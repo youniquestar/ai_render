@@ -3,7 +3,6 @@ fastapi
 joblib
 numpy
 uvicorn
-sqlite3
 json
 re
 typing
