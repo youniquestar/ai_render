@@ -74,7 +74,7 @@ nest-asyncio==1.6.0
 networkx==3.3
 notebook==7.4.5
 notebook_shim==0.2.4
-numpy
+numpy==2.3.0
 opencv-python==4.12.0.88
 packaging==25.0
 pandas==2.3.2
@@ -103,5 +103,6 @@ python-multipart==0.0.22
 pytz==2025.2
 referencing==0.36.2
 requests==2.32.5
+
 
 
