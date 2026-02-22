@@ -1,4 +1,4 @@
-fast-api
+fast-api=0.129.1
 pydantic
 numpy
 joblib
