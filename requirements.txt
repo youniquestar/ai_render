@@ -3,6 +3,3 @@ fastapi
 joblib
 numpy
 uvicorn
-json
-re
-typing
