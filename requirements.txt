@@ -1,4 +1,3 @@
-fast-api=0.129.1
+fastapi
+uvicorn
 pydantic
-numpy
-joblib
